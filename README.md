@@ -2,7 +2,7 @@
 <!-- </h2> -->
 
 <h2 align="center">PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences</h2>
-
+https://github.com/user-attachments/assets/654c1058-f229-4bbd-be7b-8bea0cffd7b8
 <!-- <h5 align="center">
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2509.26645-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.26645) 
