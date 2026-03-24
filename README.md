@@ -102,11 +102,14 @@ We thank the authors for releasing their code!
 
 If you find our work useful, please cite:
 
-<!-- ```bibtex
-@article{chen2025ttt3r,
-    title={TTT3R: 3D Reconstruction as Test-Time Training},
-    author={Chen, Xingyu and Chen, Yue and Xiu, Yuliang and Geiger, Andreas and Chen, Anpei},
-    journal={arXiv preprint arXiv:2509.26645},
-    year={2025}
-    }
-``` -->
+```bibtex
+@misc{xu2026pas3rposeadaptivestreaming3d,
+      title={PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences}, 
+      author={Lanbo Xu and Liang Guo and Caigui Jiang and Cheng Wang},
+      year={2026},
+      eprint={2603.21436},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.21436}, 
+}
+```
