@@ -103,7 +103,7 @@ We thank the authors for releasing their code!
 If you find our work useful, please cite:
 
 ```bibtex
-@misc{xu2026pas3rposeadaptivestreaming3d,
+@misc{xu2026pas3r,
       title={PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences}, 
       author={Lanbo Xu and Liang Guo and Caigui Jiang and Cheng Wang},
       year={2026},
